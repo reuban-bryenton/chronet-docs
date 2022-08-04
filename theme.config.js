@@ -1,7 +1,7 @@
 export default {
-    github: 'https://github.com/shuding/nextra',
-    docsRepositoryBase: 'https://github.com/shuding/nextra/blob/master',
-    titleSuffix: ' – Nextra',
+    github: 'https://github.com/reuban_bryenton/chronet-docs',
+    docsRepositoryBase: 'https://github.com/reuban_bryenton/chronet-docs/blob/master',
+    titleSuffix: ' – Docs',
     logo: (
         <>
         <span className="mr-2 font-extrabold hidden md:inline">Chronet.ca</span>
