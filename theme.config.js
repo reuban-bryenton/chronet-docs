@@ -22,9 +22,9 @@ export default {
             <meta name="twitter:image" content="https://imgur.com/6TlxG5f" />
             <meta name="twitter:site:domain" content="chronet-docs.vercel.app" />
             <meta name="twitter:url" content="https://chronet-docs.vercel.app" />
-            <meta name="og:title" content="Nextra: Next.js static site generator" />
+            <meta name="og:title" content="Chronet.ca: A chronet remake + remaster" />
             <meta name="og:image" content="https://imgur.com/6TlxG5f" />
-            <meta name="apple-mobile-web-app-title" content="Nextra" />
+            <meta name="apple-mobile-web-app-title" content="Chronet.ca" />
             <link
                 rel="apple-touch-icon"
                 sizes="180x180"
